@@ -1,20 +1,20 @@
 # Public Node Repository
 
-This project is hosted at http://nodes.scalaproject.io:11812/. The propose of this project is to host nodes that are active for applications or system.
+This project is hosted at http://nodes.holoyolo.com:11812/. The propose of this project is to host nodes that are active for applications or system.
 
 
 ## How to get listed @ contribute?
 
-You can create a pull request by adding your nodes to the this file [nodes.json](https://github.com/scala-network/nodes/blob/main/nodes.json) and add your name to this readme in credits section
+You can create a pull request by adding your nodes to the this file [nodes.json](https://github.com/hytproject/nodes/blob/main/nodes.json) and add your name to this readme in credits section
 
 
 ## How does the service works?
 
-The service currently is hosted at http://nodes.scalaproject.io:11812/lists. You can get the list of nodes by just going to the link it will return the list in json format. 
+The service currently is hosted at http://nodes.holoyolo.com:11812/lists. You can get the list of nodes by just going to the link it will return the list in json format. 
 
 ## Using node service for an rpc request
 
-The other flavour we add in into this project is the ability to randomly pick a node to be use. This can be done by pointing your rpc requests to `nodes.scalaproject.io:11812`.
+The other flavour we add in into this project is the ability to randomly pick a node to be use. This can be done by pointing your rpc requests to `nodes.holoyolo.com:11812`.
 
 ## How can I install this for my personal use?
 Below is the installation process for this service to be hosted
@@ -34,7 +34,7 @@ nvm use default
 3. Go to the directory where the source code will be downloaded and run the service
 ```sh
 cd <working directory>
-git clone https://github.com/scala-network/nodes.git
+git clone https://github.com/hytproject/nodes.git
 cd nodes
 npm install
 node index.js

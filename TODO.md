@@ -1,5 +1,5 @@
-# Scala Nodes
-Repository of scala public nodes.
+# Holoyolo Nodes
+Repository of Holoyolo public nodes.
 
 ### TODO
 - [ ] Port 11811 also to be proxied

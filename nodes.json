@@ -1,13 +1,13 @@
 {
 	"nodes" : [
-		"mine.scalaproject.io:8000",
-		"scalanode.com:11812",
-		"scala.ethospool.org:11812",
+		"mine.holoyolo.com:8000",
+		"Holoyolonode.com:11812",
+		"Holoyolo.ethospool.org:11812",
 		"daemon.pool.gntl.co.uk:11812",
-		"remote.one.scalaproject.io:11812",
-		"remote.two.scalaproject.io:11812",
-		"remote.three.scalaproject.io:11812",
-		"remote.four.scalaproject.io:11812",
-		"scala.fastnode.eu:11812"
+		"remote.one.holoyolo.com:11812",
+		"remote.two.holoyolo.com:11812",
+		"remote.three.holoyolo.com:11812",
+		"remote.four.holoyolo.com:11812",
+		"Holoyolo.fastnode.eu:11812"
 	]
 }
